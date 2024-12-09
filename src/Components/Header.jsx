@@ -68,7 +68,6 @@ import { faPhone } from '@fortawesome/free-solid-svg-icons';
             <Nav.Link eventKey={2} href="#memes">
               Join as Doctor
             </Nav.Link>
-            {/* <Button as="input" type="button" value="Input" /> */}
             <Button className="btn-primary m-2"> <FontAwesomeIcon icon={faPhone} /></Button>
             <Button variant="outline-primary">Login</Button>
 
